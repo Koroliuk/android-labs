@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.lab3">
+    package="com.koroliuk.lab3">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab3">
         <activity
-            android:name=".MainActivity"
+            android:name="com.koroliuk.lab3.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.Lab3.NoActionBar">
             <intent-filter>
@@ -21,7 +21,7 @@
         </activity>
 
         <activity
-            android:name=".StorageActivity"
+            android:name="com.koroliuk.lab3.StorageActivity"
             android:exported="true"
             android:theme="@style/Theme.Lab3.NoActionBar">
         </activity>
