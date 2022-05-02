@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="infoStrings">Введений текст:</string>
+    <string name="edit_text_hint">Введіть текст</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="font1">monospace</string>
+    <string name="font2">cursive</string>
+    <string name="font3">casual</string>
+    <string name="font4">sans-serif</string>
+    <string name="font5">sans-serif-black</string>
+    <string name="dialog_title">Сповіщення</string>
+    <string name="dialog_message">Перевірте чи введений текст не є пустим та опція шрифту обрана</string>
+    <string name="db_success_message">"Успішно записано в базу"</string>
+    <string name="db_failure_message">"Виникла помилка при записі в базу"</string>
+    <string name="storage">Storage</string>
+    <string name="empty_storage">Пусто</string>
+</resources>
