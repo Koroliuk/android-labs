@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="infoStrings">Введений текст:</string>
+    <string name="edit_text_hint">Введіть текст</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="font1">Font1</string>
+    <string name="font2">Font2</string>
+    <string name="font3">Font3</string>
+    <string name="font4">Font4</string>
+    <string name="font5">Font5</string>
+    <string name="dialog_title">Сповіщення</string>
+    <string name="dialog_message">Перевірте чи введений текст не є пустим та опція шрифту обрана</string>
+</resources>
